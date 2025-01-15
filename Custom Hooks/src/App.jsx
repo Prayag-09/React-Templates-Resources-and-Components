@@ -1,10 +1,12 @@
 import './App.css'
-import CustomCounter from './components/CustomCounter'
+// import CustomCounter from './components/CustomCounter'
+import CustomWindowSize from './components/CustomWindowSize'
 function App() {
   
   return (
     <>
-      <CustomCounter />
+      {/* <CustomCounter /> */}
+      <CustomWindowSize />
     </>
   )
 }
