@@ -1,7 +1,3 @@
-Here’s an improved version of your README:
-
----
-
 # Custom Hooks
 
 Welcome to the **Custom Hooks** repository! 🎣  
